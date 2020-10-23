@@ -1,0 +1,7 @@
+C:\Users\wsr2018-02\source\repos\bibi\bibi\bin\Debug\bibi.exe.config
+C:\Users\wsr2018-02\source\repos\bibi\bibi\bin\Debug\bibi.exe
+C:\Users\wsr2018-02\source\repos\bibi\bibi\bin\Debug\bibi.pdb
+C:\Users\wsr2018-02\source\repos\bibi\bibi\obj\Debug\bibi.csprojAssemblyReference.cache
+C:\Users\wsr2018-02\source\repos\bibi\bibi\obj\Debug\bibi.csproj.CoreCompileInputs.cache
+C:\Users\wsr2018-02\source\repos\bibi\bibi\obj\Debug\bibi.exe
+C:\Users\wsr2018-02\source\repos\bibi\bibi\obj\Debug\bibi.pdb
