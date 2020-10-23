@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30517.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bibi", "bibi\bibi.csproj", "{398011C5-7731-4CC4-9820-B84204DCCCB7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{398011C5-7731-4CC4-9820-B84204DCCCB7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{398011C5-7731-4CC4-9820-B84204DCCCB7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{398011C5-7731-4CC4-9820-B84204DCCCB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{398011C5-7731-4CC4-9820-B84204DCCCB7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {132830FB-BD13-4687-9AE4-CF5DB524243F}
+	EndGlobalSection
+EndGlobal
